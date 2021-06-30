@@ -1,9 +1,9 @@
 {
     "prefix": "x/",     
     "embedcolor": "RED", 
-    "dev": "809035922116182046",       
-    "token": "ODQ4NDY5Mzk2NDk4Mjg0NTc0.YLNEsw.5PdnHVFz9WsPapi2R59HlLOIfWg", 
-    "database": "dd19c75c6f1989546762825dbbdcaeab0ec4c",
-    "FACT_API": "",
-    "AME_API": "4d20b8db45b5d8768a5cb2c489aa09adae2da3de632cd79eea0501a188c783620b0f68524b35afa3bf8abad9c4d571578fa5fad23218c236d9d78c775d011e07"     
+    "dev": "Your ID",       
+    "token": "Your Bot Token", 
+    "database": "Your Database",
+    "FACT_API": "Discord Server API",
+    "AME_API": "Your Amethyste Api"     
 }
